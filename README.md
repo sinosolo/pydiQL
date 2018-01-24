@@ -1,0 +1,2 @@
+# pydiQL
+Python-Redis-PostgreSQL
